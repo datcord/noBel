@@ -14,8 +14,6 @@ import android.widget.TextView;
 
 public class NomineeDetailsFrag extends Fragment {
 
-    // TODO: Rename parameter arguments, choose names that match
-    // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String[] NOMINEE_INFO = {
         "Benjamin List (German pronunciation: [ˈbɛnjamiːn ˈlɪst] (listen); born 11 January 1968) is a German chemist who is one of the directors of the Max Planck Institute for Coal Research and professor of organic chemistry at the University of Cologne. He co-developed organocatalysis, a method of accelerating chemical reactions and making them more efficient. He shared the 2021 Nobel Prize in Chemistry with David MacMillan \"for the development of asymmetric organocatalysis\".",
         "Syukuro \"Suki\" Manabe (真鍋 淑郎, Manabe Shukurō, born 21 September 1931) is a Japanese-educated American meteorologist and climatologist who pioneered the use of computers to simulate global climate change and natural climate variations. He was awarded the 2021 Nobel Prize in Physics jointly with Klaus Hasselmann and Giorgio Parisi, for his contributions to the physical modeling of earth's climate, quantifying its variability, and predictions of climate change.",
