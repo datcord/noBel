@@ -49,7 +49,6 @@ public class MainFragment extends Fragment {
             NomineeDetailsFrag frag = (NomineeDetailsFrag) getFragmentManager().findFragmentById(R.id.fragment2);
             frag.setNomineeId(id);
         } else {
-
             Intent intent = new Intent(getActivity(), NomineeDetailsAct.class);
             intent.putExtra("country_id", id);
             startActivity(intent);
